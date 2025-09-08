@@ -1,1 +1,1 @@
-# twrp_samsung_a06_6.6
+# TeamWin Recovery tree for samsung SM-A065F/M (a06)
